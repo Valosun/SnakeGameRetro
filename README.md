@@ -1,4 +1,5 @@
 # SnakeGameRetro
+Uses Raylib library in C++
 A simple snake game
 The Snake Moves with both ASWD Keys and Arrow Keys.
 Game will be over if snake crashed into itself.
