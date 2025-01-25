@@ -1,8 +1,0 @@
-﻿  SnakeCode.cpp
-C:\Users\mail2\OneDrive\Desktop\Create Game Files\SnakeGame\SnakeGame\SnakeCode.cpp(117,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\mail2\OneDrive\Desktop\Create Game Files\SnakeGame\SnakeGame\SnakeCode.cpp(117,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\mail2\OneDrive\Desktop\Create Game Files\SnakeGame\SnakeGame\SnakeCode.cpp(122,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\mail2\OneDrive\Desktop\Create Game Files\SnakeGame\SnakeGame\SnakeCode.cpp(123,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\mail2\OneDrive\Desktop\Create Game Files\SnakeGame\SnakeGame\SnakeCode.cpp(224,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\mail2\OneDrive\Desktop\Create Game Files\SnakeGame\SnakeGame\SnakeCode.cpp(231,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  SnakeGame.vcxproj -> C:\Users\mail2\OneDrive\Desktop\Create Game Files\SnakeGame\x64\Debug\SnakeGame.exe
